@@ -1,6 +1,6 @@
 from math import sqrt
 
-num = 36
+num = int(input())
 result = []
 
 for i in range(1, int(sqrt(num))+1):
