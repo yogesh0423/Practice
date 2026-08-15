@@ -50,3 +50,9 @@ print(numbers.index(20))
 
 
 # Program 7
+
+e = ("Age", "Experience", "Salary", "Education")
+if "Salary" in e:
+  print("Exit")
+else:
+  print("Not exit")
