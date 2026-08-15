@@ -56,3 +56,10 @@ if "Salary" in e:
   print("Exit")
 else:
   print("Not exit")
+
+
+# Program 8
+
+g = ("Python", "Machine Learning", "Deep Learning", "NLP")
+for lang in g:
+  print(lang)
