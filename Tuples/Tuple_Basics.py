@@ -33,3 +33,10 @@ print(c[1])
 print(c[2])
 
 # Program 5
+
+numbers = (10,20,30,40,50)
+
+print(numbers[0:3])
+print(numbers[3:5])
+print(numbers[::-1])
+
