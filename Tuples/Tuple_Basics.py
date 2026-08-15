@@ -40,3 +40,13 @@ print(numbers[0:3])
 print(numbers[3:5])
 print(numbers[::-1])
 
+
+# Program 6
+
+numbers = (10,20,30,20,40,20)
+
+print(numbers.count(20))
+print(numbers.index(20))
+
+
+# Program 7
