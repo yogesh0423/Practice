@@ -24,3 +24,12 @@ b = (45, 67, 454,23 )
 print(len(b))
 print(max(b))
 print(min(b))
+
+# Program 4
+
+c = ("Python", "Machine Learning", "Data Science")
+print(c[0])
+print(c[1])
+print(c[2])
+
+# Program 5
